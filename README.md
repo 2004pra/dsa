@@ -1,4 +1,4 @@
-WELCOME TO THIS REPOSITORY OF DSA ---------------------->>>>>>>>>>>>>>----------->>>>>>>>>>>
+WELCOME TO THE REPOSITORY OF DSA ---------------------->>>>>>>>>>>>>>----------->>>>>>>>>>>
 
 
 1. please find the attached question related to stack and queue here ....
